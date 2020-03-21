@@ -1,2 +1,3 @@
-# sodimac-clase-git
-clase de prueba en git sodimac
+# mi primer repositorio remoto
+
+clase de git 
